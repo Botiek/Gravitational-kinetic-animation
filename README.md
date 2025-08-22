@@ -11,7 +11,7 @@
 - `physics.html` - основная HTML страница с интерфейсом
 - `physics.js` - JavaScript код для анимации и физических расчетов
 - `img/` - папка с SVG изображениями для анимации
-![Image alt](prev.webm)
+![Image alt](https://github.com/Botiek/Gravitational-kinetic-animation/blob/28cd1e2195939f7b2a552d68dd7ce107b7be9d39/prev.webm))](https://github.com/Botiek/Gravitational-kinetic-animation/blob/28cd1e2195939f7b2a552d68dd7ce107b7be9d39/prev.webm)
 ## Запуск
 
 Откройте файл `physics.html` в веб-браузере для запуска анимации.
