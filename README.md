@@ -1,4 +1,4 @@
-# PCA Physics Animation
+# Physics Animation
 
 Проект анимации физических процессов с использованием Principal Component Analysis (PCA).
 
